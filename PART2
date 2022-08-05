@@ -4,7 +4,7 @@
 
 <h1 id="myHeader">Hello TAHER MASTER!</h1>
 <h2>C0853899</h2>
-<button onclick="displayResult()">Change text</button>
+<button onclick="displayResult()">Click for Magic</button>
 
 <script>
 function displayResult() {
