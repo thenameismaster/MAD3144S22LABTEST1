@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+
+<h1 id="myHeader">Hello TAHER MASTER!</h1>
+<h2>C0853899</h2>
+<button onclick="displayResult()">Change text</button>
+
+<script>
+function displayResult() {
+  document.getElementById("myHeader").innerHTML = "Have a nice day MR MASTER!";
+}
+</script>
+
+</body>
+</html>
